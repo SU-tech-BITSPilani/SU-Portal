@@ -1,1 +1,1 @@
-# SU-Portal
+# BITS Pilani Students' Union Portal
